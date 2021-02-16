@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586701704 source:d:\kulyeah\semester 2\algoritma pemrograman\data\tubed alpro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
